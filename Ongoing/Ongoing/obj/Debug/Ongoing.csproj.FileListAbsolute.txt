@@ -1,0 +1,16 @@
+C:\Users\80105812.REDECORP\source\repos\Ongoing\Ongoing\bin\Debug\Ongoing.exe.config
+C:\Users\80105812.REDECORP\source\repos\Ongoing\Ongoing\bin\Debug\Ongoing.exe
+C:\Users\80105812.REDECORP\source\repos\Ongoing\Ongoing\bin\Debug\Ongoing.pdb
+C:\Users\80105812.REDECORP\source\repos\Ongoing\Ongoing\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\80105812.REDECORP\source\repos\Ongoing\Ongoing\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\80105812.REDECORP\source\repos\Ongoing\Ongoing\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\80105812.REDECORP\source\repos\Ongoing\Ongoing\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\80105812.REDECORP\source\repos\Ongoing\Ongoing\obj\Debug\Ongoing.csproj.AssemblyReference.cache
+C:\Users\80105812.REDECORP\source\repos\Ongoing\Ongoing\obj\Debug\Ongoing.Properties.Resources.resources
+C:\Users\80105812.REDECORP\source\repos\Ongoing\Ongoing\obj\Debug\Ongoing.csproj.GenerateResource.cache
+C:\Users\80105812.REDECORP\source\repos\Ongoing\Ongoing\obj\Debug\Ongoing.csproj.CoreCompileInputs.cache
+C:\Users\80105812.REDECORP\source\repos\Ongoing\Ongoing\obj\Debug\Ongoing.csproj.Up2Date
+C:\Users\80105812.REDECORP\source\repos\Ongoing\Ongoing\obj\Debug\Ongoing.exe
+C:\Users\80105812.REDECORP\source\repos\Ongoing\Ongoing\obj\Debug\Ongoing.pdb
+C:\Users\80105812.REDECORP\source\repos\Ongoing\Ongoing\obj\Debug\Ongoing.Form1.resources
+C:\Users\80105812.REDECORP\source\repos\Ongoing\Ongoing\obj\Debug\Ongoing.GeraOngoing.resources

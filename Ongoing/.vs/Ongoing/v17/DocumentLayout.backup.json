@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\80105812.REDECORP\\source\\repos\\Ongoing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6DC836A-E862-4950-91E3-FE73686D04F1}|Ongoing\\Ongoing.csproj|c:\\users\\80105812.redecorp\\source\\repos\\ongoing\\ongoing\\geraongoing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6DC836A-E862-4950-91E3-FE73686D04F1}|Ongoing\\Ongoing.csproj|solutionrelative:ongoing\\geraongoing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6DC836A-E862-4950-91E3-FE73686D04F1}|Ongoing\\Ongoing.csproj|C:\\Users\\80105812.REDECORP\\source\\repos\\Ongoing\\ongoing\\geraongoing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6DC836A-E862-4950-91E3-FE73686D04F1}|Ongoing\\Ongoing.csproj|solutionrelative:ongoing\\geraongoing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6DC836A-E862-4950-91E3-FE73686D04F1}|Ongoing\\Ongoing.csproj|C:\\Users\\80105812.REDECORP\\source\\repos\\Ongoing\\ongoing\\adicionarimagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6DC836A-E862-4950-91E3-FE73686D04F1}|Ongoing\\Ongoing.csproj|solutionrelative:ongoing\\adicionarimagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6DC836A-E862-4950-91E3-FE73686D04F1}|Ongoing\\Ongoing.csproj|C:\\Users\\80105812.REDECORP\\source\\repos\\Ongoing\\ongoing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6DC836A-E862-4950-91E3-FE73686D04F1}|Ongoing\\Ongoing.csproj|solutionrelative:ongoing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6DC836A-E862-4950-91E3-FE73686D04F1}|Ongoing\\Ongoing.csproj|C:\\Users\\80105812.REDECORP\\source\\repos\\Ongoing\\ongoing\\addimagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6DC836A-E862-4950-91E3-FE73686D04F1}|Ongoing\\Ongoing.csproj|solutionrelative:ongoing\\addimagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddImagem.cs",
+              "DocumentMoniker": "C:\\Users\\80105812.REDECORP\\source\\repos\\Ongoing\\Ongoing\\AddImagem.cs",
+              "RelativeDocumentMoniker": "Ongoing\\AddImagem.cs",
+              "ToolTip": "C:\\Users\\80105812.REDECORP\\source\\repos\\Ongoing\\Ongoing\\AddImagem.cs",
+              "RelativeToolTip": "Ongoing\\AddImagem.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAEQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T20:10:58.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\80105812.REDECORP\\source\\repos\\Ongoing\\Ongoing\\Program.cs",
+              "RelativeDocumentMoniker": "Ongoing\\Program.cs",
+              "ToolTip": "C:\\Users\\80105812.REDECORP\\source\\repos\\Ongoing\\Ongoing\\Program.cs",
+              "RelativeToolTip": "Ongoing\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:47:52.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GeraOngoing.cs",
+              "DocumentMoniker": "C:\\Users\\80105812.REDECORP\\source\\repos\\Ongoing\\Ongoing\\GeraOngoing.cs",
+              "RelativeDocumentMoniker": "Ongoing\\GeraOngoing.cs",
+              "ToolTip": "C:\\Users\\80105812.REDECORP\\source\\repos\\Ongoing\\Ongoing\\GeraOngoing.cs",
+              "RelativeToolTip": "Ongoing\\GeraOngoing.cs",
+              "ViewState": "AgIAAM4BAAAAAAAAAAAUwM0BAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T20:44:01.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeraOngoing.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\80105812.REDECORP\\source\\repos\\Ongoing\\Ongoing\\GeraOngoing.cs",
+              "RelativeDocumentMoniker": "Ongoing\\GeraOngoing.cs",
+              "ToolTip": "C:\\Users\\80105812.REDECORP\\source\\repos\\Ongoing\\Ongoing\\GeraOngoing.cs [Design]",
+              "RelativeToolTip": "Ongoing\\GeraOngoing.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:41:09.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdicionarImagem.cs",
+              "DocumentMoniker": "C:\\Users\\80105812.REDECORP\\source\\repos\\Ongoing\\Ongoing\\AdicionarImagem.cs",
+              "RelativeDocumentMoniker": "Ongoing\\AdicionarImagem.cs",
+              "ToolTip": "C:\\Users\\80105812.REDECORP\\source\\repos\\Ongoing\\Ongoing\\AdicionarImagem.cs",
+              "RelativeToolTip": "Ongoing\\AdicionarImagem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwGMAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T20:28:36.306Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
